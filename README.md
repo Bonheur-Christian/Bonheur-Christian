@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUHUMURE Bonheur Christian</h1>
 <h3 align="center">I Am Software Developer focused on creating efficient and reliable applications.</h3>
 
-<img href="https://media.tenor.com/-fpoDL2Bw70AAAAj/symbol-code.gif" alt="coding gif"/>
+<img src="https://media.tenor.com/-fpoDL2Bw70AAAAj/symbol-code.gif" alt="coding gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonheur-christian&label=Profile%20views&color=0e75b6&style=flat" alt="bonheur-christian" /> </p>
 
