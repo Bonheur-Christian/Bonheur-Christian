@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Leak Alert**
 
-- 💬 Ask me about **React, Node JS, HTML, Tailwindcss , css**
+- 💬 Ask me about **React, Next Js, Tailwindcss, Node JS, Nest Js **
 
 - 📫 How to reach me **mbonheurc23@gmail.com**
 
