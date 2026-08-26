@@ -2,7 +2,8 @@ Hi, I'm MUHUMURE Bonheur Christian
 
 Software Developer focused on creating efficient and reliable applications.
 
-Technologies
+Technologies:
+
 React  
 Next.js  
 Node.js  
